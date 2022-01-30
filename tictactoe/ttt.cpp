@@ -7,7 +7,7 @@ using namespace std;
 
 /*********************************************************
  * main provides the board setup and calls game functions
- * in loop as needed until game is over.
+ * in loop as needed until game is over. Test.
  * *******************************************************/
 int main()
 {
