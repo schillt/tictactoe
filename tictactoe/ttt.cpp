@@ -3,11 +3,12 @@
 #include <vector>
 #include "fn.hpp"
 
-using namespace std;
+using namespace std; //don't like std:: to much typing
 
 /*********************************************************
- * main provides the board setup and calls game functions
- * in loop as needed until game is over.
+ * main provides the board setup in vector for use
+ * throughout program and calls game functions in loop as
+ * needed until game is over.
  * *******************************************************/
 int main()
 {
