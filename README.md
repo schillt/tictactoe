@@ -1,5 +1,5 @@
 # tictactoe
-CodeCademy C++ Functions Project👨🏼‍💻  
+CodeCademy C++ Functions Project 👨🏼‍💻   
 <br/>
 Vectors were used instead of an array or multi-dimensional array.  
 They were new to me and seemed to make sense, though things got confusing at times.  
