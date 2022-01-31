@@ -3,7 +3,7 @@
 #include <string>
 #include "fn.hpp"
 
-using namespace std;
+using namespace std; //no std
 
 /*********************************************************
  * displayBoard performs the formatting and output of the
