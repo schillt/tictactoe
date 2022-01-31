@@ -11,8 +11,8 @@ using namespace std;
  * *******************************************************/
 void displayBoard(vector<string> board)
 {
-  cout << "    A   B   C\n";
-  int row = 0;
+  cout << "    A   B   C\n"; //horizontal grid coordinates for user
+  int row = 0; //vertical grid coordinates for user (end result example: A1)
   for (int i = 0; i < board.size(); i++)
       {
         if (i == 6 || i == 12 || i == 18)
