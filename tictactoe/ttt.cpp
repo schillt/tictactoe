@@ -3,7 +3,7 @@
 #include <vector>
 #include "fn.hpp"
 
-using namespace std; //don't like std:: to much typing
+using namespace std; //don't like std:: too much typing
 
 /*********************************************************
  * main provides the board setup in vector for use
